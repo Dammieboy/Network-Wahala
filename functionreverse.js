@@ -24,4 +24,4 @@ function reverseInteger(number) {
 
 
 console.log(reverseInteger(12345));  
-console.log(reverseInteger(-345);   
+console.log(reverseInteger(-345));   

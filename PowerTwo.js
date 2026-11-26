@@ -20,4 +20,4 @@ console.log(isPowerOfTwo(12));
 console.log(isPowerOfTwo(0));
 
 
-
+(
